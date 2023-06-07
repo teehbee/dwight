@@ -1,0 +1,46 @@
+body {
+	font-family: sans-serif;
+	padding: 1em 3em;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+span {
+	margin: 10px 0px;
+}
+
+img {
+	max-width: 500px;
+	height: auto;
+}
+
+.image,
+h1 {
+	text-align: center;
+}
+
+.welcome-header {
+	margin: 0 auto;
+}
+
+.row,
+.row-bold {
+	display: flex;
+	justify-content: space-between;
+}
+
+.farm {
+	font-weight: bold;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-around;
+}
+
+button {
+	padding: 5px;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 10px 0px;
+}
